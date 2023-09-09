@@ -73,5 +73,5 @@ int main()
     if (h == true)
         cout << "exits";
     else
-        cout << "not exits";
+        cout << " does not exits";
 }
